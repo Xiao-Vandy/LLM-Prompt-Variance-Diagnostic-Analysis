@@ -1,0 +1,1013 @@
+{
+  "origin1-1": ["So this T2 scan has motion blur and some slice misalignment—what might explain the unclear lesion edge?",
+"Can you briefly explain why motion and slice issues might blur the lesion edge in a T2 scan?",
+"This scan looks fuzzy throughout—where would you even place the lesion boundary given that distortion?",
+"The fuzzy lesion edge may result from slice mismatch and motion in the T2 MRI.",
+"If a T2 scan shows slice mismatch and motion artifacts, what could cause the lesion boundary to blur?",
+"When examining this scan affected by motion and slice shift, what reasoning helps explain the unclear boundary?",
+"Explain how motion and slice misalignment affect the lesion boundary.",
+"Provide a short explanation of why motion and misaligned slices could lead to a blurry lesion boundary.",
+"When someone asks why the lesion edge is hard to read in a fuzzy scan like this, how would you explain it?",
+"What matters most when evaluating a lesion in a scan with motion artifacts?",
+"You’re explaining this scan to a junior trainee—how would you describe why the lesion boundary isn’t distinct?",
+"You’re writing a report—how would you describe why the lesion boundary is unclear?",
+"Lesion unclear. Scan messy. Slices not match. Explain why.",
+"Motion? Blur. Edge gone where. Image say nothing clear.",
+"Slices broken. Edge floaty. Scan chaos. What logic now?"
+  ],
+  "origin1-2": ["Can you explain how movement affects MRI scan edges?",
+    "So what happens to the MRI image when a person moves?",
+    "Yo, how does wiggling mess up those MRI lines?",
+
+    "MRI scan boundaries are affected by patient movement—can you explain how?",
+    "When patients move, how are scan boundaries influenced?",
+    "If one were to imagine motion during MRI, how might that blur the boundaries?",
+
+    "Break down how motion distorts MRI edges.",
+    "What’s a short explanation of how moving messes up scan clarity?",
+    "If you had to describe why motion makes MRIs blurry, how would you do it?",
+
+    "What is the main issue caused by patient movement in MRI scans?",
+    "You're writing a manual for interns: explain how motion blurs MRI boundaries.",
+    "As a radiology instructor teaching beginners, how would you explain motion effects on MRI clarity?",
+
+    "mri patient move edge effect say",
+    "Please explain MRI motion boundary distortions but briefly quickly okay?",
+    "MRI scans blurry why move affect how?"],
+  "origin1-3": [ "Why do MRI image boundaries get distorted when someone moves?",
+    "What’s going on with MRI edges when a patient moves around?",
+    "Okay but like, why does wiggling mess up the MRI picture lines?",
+
+    "Boundary distortions are caused by subject movement—can you explain how?",
+    "When someone moves during an MRI, what happens to the image boundaries?",
+    "If a person were to move slightly in the scanner, what might cause those boundary warps?",
+
+    "Break down what causes blurring at the edges in moving MRI scans.",
+    "Explain the reason that movement leads to MRI image distortion.",
+    "If you had to say why moving causes boundary issues in MRI, what would you say?",
+
+    "What’s the main reason movement affects MRI boundaries?",
+    "You're writing a FAQ for MRI technicians—what causes edge distortions during movement?",
+    "As a radiologist explaining to students, how do you describe movement-induced edge distortion?",
+
+    "mri move cause boundary blur why",
+    "Please tell cause mri edge distort move happening yes?",
+    "why when move boundary mri mess up happen?"],
+
+  "origin1-4": ["How does movement affect edge detection in MRI scans?",
+    "What happens to MRI edge detection when the patient shifts around?",
+    "So like, how does wiggling mess with those MRI edge-finding bits?",
+
+    "Edge detection is influenced by subject motion in MRI—can you describe the effect?",
+    "When someone moves, how is MRI edge detection impacted?",
+    "If a person moves mid-scan, what happens to the ability to detect edges in the image?",
+
+    "Break down how motion interferes with edge detection in MRI scans.",
+    "Describe how patient movement disrupts the detection of boundaries in MRI images.",
+    "If you had to explain why motion ruins MRI edge detection, what would you say?",
+
+    "What’s the main effect of motion on edge clarity in MRI scans?",
+    "You're training interns: describe how edge detection is compromised by motion in MRI.",
+    "As someone explaining to a new tech, how do you describe the motion effect on MRI edge detection?",
+
+    "mri motion affect edge detect how",
+    "Please explain edge mess motion mri yes make unclear?",
+    "how movement mess up edge find mri scan why happen"],
+
+  "origin1-5": ["What happens to anatomical boundaries when motion blur kicks in during an MRI?",
+    "How does movement blur impact how we see body part edges in scans?",
+    "So like, how does all that blur mess up seeing where stuff begins and ends in the body?",
+
+    "Anatomical boundary recognition is affected by motion-induced blur—how exactly?",
+    "When MRI images get blurry from movement, how are anatomical boundaries affected?",
+    "If blur occurs due to motion, how might that interfere with detecting body structure boundaries?",
+
+    "Explain how motion blur interferes with identifying anatomical edges in MRI scans.",
+    "Describe the consequences of motion-induced blur for boundary recognition in anatomy.",
+    "If you had to describe how blurriness changes our ability to detect body outlines, what would you say?",
+
+    "What’s the main way motion blur disrupts anatomical recognition in scans?",
+    "You’re teaching radiology students—how would you explain motion blur’s effect on boundary clarity?",
+    "As a trainer, describe what happens to anatomical edges when scans are affected by movement blur.",
+
+    "blur move mri boundary anatomy how affected",
+    "blur edge find anatomy when move yes unclear scan",
+    "motion blurry boundary detect anatomy mess why"],
+
+
+
+  "origin2-1": [
+   "Can you briefly explain what factors might mess with how we interpret this anti-inflammatory drug, especially if stress markers go up in stable patients?",
+"Why might a medication intended to reduce stress instead worsen it in stable patients—and what could explain this contradiction in results?",
+"So this drug makes stress go up even though it’s supposed to help—what might be messing with the results?",
+"Given increased stress markers in stable patients taking an anti-inflammatory drug, what variables might confound the efficacy analysis?",
+"Confounding variables should be considered when interpreting the efficacy of a drug that paradoxically elevates stress biomarkers in stable patients, despite being anti-inflammatory.",
+"Were a drug to raise stress markers though meant to calm inflammation, how might its effects be falsely interpreted due to unseen variables?",
+"Boil down the possible confounders in interpreting this drug’s impact, given stress markers rise instead of fall.",
+"Explain in one sentence what hidden variables might account for increased stress from a drug meant to reduce inflammation.",
+"Write a short explanation of what might interfere with understanding the real effect of this paradoxical inflammation medication.",
+"What are some hidden influences on interpreting this drug’s result, where stress markers rise unexpectedly?",
+"As a peer reviewer, how would you concisely flag confounding issues in a trial where an anti-inflammatory boosts stress indicators?",
+"You’re writing a research summary—what potential confounders should you mention for this paradoxical inflammation drug?",
+"Drug calm → stress up? stable patients. Why? Interpret effect, what confound?",
+"Anti-inflammatory drug ↑ stress markers—what confounding variables affect efficacy interpretation?",
+"Confuse effect if drug ∆ stress+stable→why factor? Say short."
+  ],
+  "origin2-2": [
+     "What confounding variables might explain why a drug appears to make things worse?",
+    "Which factors could be skewing results when a drug seems harmful?",
+    "Okay but like, why does the drug look bad when maybe it isn’t?",
+
+    "A drug worsens outcomes unexpectedly—what possible confounders could be at play?",
+    "When treatment seems harmful, what variables might be distorting the picture?",
+    "If a drug shows negative effects, what unseen factors might explain that?",
+
+    "List possible confounders that might reverse a drug's apparent impact.",
+    "Explain how external variables might make a helpful drug look damaging.",
+    "If asked to name reasons a drug trial looks worse than it is, what would you say?",
+
+    "What are the main confounding risks when a drug shows paradoxical results?",
+    "You're writing a research memo—what confounders might explain this negative drug effect?",
+    "As an analyst, describe why a treatment could seem harmful due to study design flaws.",
+
+    "drug worse outcome confound why possible?",
+    "bad result drug maybe other variable cause yes?",
+    "how maybe drug not bad but still looks bad why happen?"
+  ],
+  "origin2-3": [
+     "What kinds of factors could hide the real causal impact of a drug that seems to fail?",
+    "Which elements might be disguising a drug's true effect in clinical results?",
+    "Why does the drug look like a backstabber when maybe it's not?",
+
+    "In paradoxical drug outcomes, what variables might obscure the actual causal effect?",
+    "When a treatment appears to backfire, what could be distorting the data?",
+    "If drug results seem off, what might be hiding the true cause-and-effect relationship?",
+
+    "Name possible biases or confounders that could mask a drug’s real impact.",
+    "Explain how misleading variables might hide the genuine causal link in a study.",
+    "If someone asked why a good drug looks bad in the data, what would you tell them?",
+
+    "What are the major factors that can cover up true causal signals in drug research?",
+    "You're reviewing paradoxical trial data—what factors might mask real drug effects?",
+    "As a study reviewer, how would you explain apparent drug harm that’s actually misleading?",
+
+    "drug look bad but true cause hide why maybe?",
+    "real effect mask drug why happen paradox result?",
+    "confound variable trick outcome drug truth gone?"
+  ],
+  "origin2-4": [
+    "How might confounding factors make a drug look harmful when it’s actually not?",
+    "What’s a way that confounding could make results look worse than they are?",
+    "So wait—how does the math lie about the drug because of other stuff?",
+
+    "An unexpected negative result—how could confounding be the cause?",
+    "When a treatment seems to harm patients, what role might confounding play?",
+    "If a drug looks bad, how could hidden variables be responsible?",
+
+    "Explain how a third variable can create the illusion of a harmful drug effect.",
+    "Describe a confounding scenario that falsely suggests a drug is dangerous.",
+    "If you had to explain how confounding tricks people into thinking a drug is harmful, how would you do it?",
+
+    "What’s the main way confounding can flip drug results from helpful to harmful?",
+    "You're writing a trial review—how could confounding explain unexpected harm?",
+    "As a biostats instructor, how would you explain confounding’s role in misreading a drug’s effect?",
+
+    "drug bad why not real confound trick result",
+    "confounding variable blame drug for bad outcome fake?",
+    "effect drug seem bad but really no why confound"
+  ],
+  "origin2-5": [
+   "How can unmeasured variables distort drug efficacy results?",
+    "What’s the risk of hidden confounders making a drug look harmful?",
+    "In drug trials, how do unseen factors mess with the outcome?",
+
+    "Explain how missing variable control can lead to false treatment conclusions.",
+    "How do confounding variables undermine the apparent effects of a drug?",
+    "If a study ignores key variables, how could that mislead conclusions about efficacy?",
+
+    "Describe how unmeasured factors might skew interpretation of a drug's success.",
+    "When variables aren’t accounted for, how can results wrongly suggest a drug doesn’t work?",
+    "What happens when hidden variables interfere with measuring treatment impact?",
+
+    "What’s a good example of a confounder reversing a drug’s expected effect?",
+    "Imagine you’re reviewing a study—how would uncontrolled variables distort findings?",
+    "If causal inference fails, could missing variables be the cause? Explain how.",
+
+    "drug test effect change because hidden variable influence result?",
+    "study wrong outcome drug if variable ignored not included?",
+    "drug look bad false maybe missing thing shift result yes?"
+  ],
+  "origin3-1": [
+    "Can you briefly outline what planners should think about to make a weekday car restriction plan both fair and effective?",
+"If a city bans weekday driving, what checklist should planners use to ensure the plan is just and effective?",
+"What’s an effective and fair way to introduce weekday driving restrictions in a city?",
+"A brief list should be drafted of considerations urban planners must evaluate to ensure weekday car-use restrictions are effective and equitable.",
+"If fairness and effectiveness matter, what must be weighed by planners who restrict weekday car access, citywide?",
+"When reducing traffic by limiting private cars, what should planners weigh to make sure it works and treats people fairly?",
+"Boil down the key considerations for planners when implementing a weekday car-use policy meant to ease congestion and ensure fairness.",
+"Write a short guide on what urban planners should review before launching a fair and effective weekday driving limit.",
+"If you were explaining this policy framework to a city council, what should they consider to keep it fair and effective?",
+"You are writing a memo for city planners. What should they keep in mind when limiting private car use during weekdays?",
+"What factors should be considered to ensure a weekday car restriction policy is both just and impactful?",
+"As a transit advisor, what key points would you raise to ensure a weekday driving ban is fair and effective?",
+"Weekday car limit. Less traffic. Fairness + impact → planners think about what?",
+"Weekday car ban → lower pollution. Equity? What should be considered?",
+"Driving ban. Brief ideas for planner: equity & result →?"
+  ],
+  "origin3-2": [
+     "Can you come up with a fair and efficient traffic restriction for weekdays?",
+    "What’s one idea for limiting weekday vehicle use without being unfair?",
+    "Hey, how would you block cars during the week without making it feel rigged?",
+
+    "Suggest a weekday driving policy that balances equity and performance.",
+    "How might a city reduce weekday traffic while keeping the policy just?",
+    "If fairness and function both matter, how would you limit weekday driving?",
+
+    "Design a weekday car rule that avoids discrimination and keeps traffic flowing.",
+    "What restriction strategy could keep city traffic low while treating drivers fairly?",
+    "If you had to pitch a fair traffic plan for busy weekdays, what’s your move?",
+
+    "How can we cut weekday traffic without favoring any group unfairly?",
+    "You're consulting for a metro—what weekday vehicle limit won’t spark protests?",
+    "As a policy designer, how would you ensure weekday restrictions are fair and effective?",
+
+    "weekdays limit car plan fair smart traffic go?",
+    "drive less weekdays but not biased how make rule?",
+    "equal car control weekdays not anger drivers plan?"
+  ],
+  "origin3-3": [
+     "How can traffic bans be set up to keep cities running smoothly?",
+    "What’s a good way to restrict vehicles without making the city lose its mind?",
+    "So how do you stop cars without causing an urban meltdown?",
+
+    "Design a traffic ban that reduces congestion but avoids disrupting urban life.",
+    "How should driving limits be crafted to minimize negative impacts on city function?",
+    "If a city needs traffic bans, how can they be done with minimal chaos?",
+
+    "Describe a way to restrict traffic without paralyzing a city’s daily routine.",
+    "Suggest a vehicle policy that avoids disrupting people’s schedules and operations.",
+    "If you were to make a citywide driving rule, how would you keep disruption low?",
+
+    "What’s the best approach to reduce traffic while maintaining urban stability?",
+    "You're briefing city officials—how should traffic bans be structured to reduce disruption?",
+    "As a transit planner, explain how to implement fair and low-impact traffic bans.",
+
+    "traffic ban make city calm not chaos how plan?",
+    "block cars but still working city plan yes idea?",
+    "urban go smooth car limit no big mess how?"
+  ],
+  "origin3-4": [
+     "What kind of traffic rule would reduce cars without hurting low-income groups?",
+    "Can you suggest a car restriction plan that doesn’t penalize poor people?",
+    "Okay but like, how do you make traffic rules that don’t screw over broke folks?",
+
+    "Suggest a vehicle policy that reduces congestion without socioeconomic discrimination.",
+    "How can traffic control avoid favoring the wealthy or hurting marginalized groups?",
+    "If traffic limits are needed, how can we keep them economically fair?",
+
+    "Describe a driving policy that’s socially equitable and doesn’t target income levels.",
+    "Propose a regulation that reduces vehicles but treats all income groups fairly.",
+    "If asked to reduce traffic without class bias, how would you design that?",
+
+    "What’s one way to structure traffic laws without increasing inequality?",
+    "You're advising on policy—how can traffic limits avoid economic discrimination?",
+    "As a planner, describe a car policy that doesn’t accidentally punish low-income drivers.",
+
+    "traffic fair car plan no punish poor yes?",
+    "not rich-only traffic ban how make work city?",
+    "limit cars but no bias poor people rule?"
+  ],
+  "origin3-5": [
+     "What principles should shape how cities plan weekday driving restrictions?",
+    "Which criteria are important for setting up traffic rules during the week?",
+    "Okay but like, how do we even decide who gets to drive on a Tuesday?",
+
+    "What guidelines should policymakers follow when limiting weekday vehicle access?",
+    "How should equity, efficiency, and feasibility factor into weekday traffic plans?",
+    "If a city is making weekday driving rules, what factors should shape the design?",
+
+    "List the key things to consider when making weekday traffic restrictions fair and effective.",
+    "Describe what should go into planning weekday traffic rules that actually work.",
+    "If someone asked what matters when restricting weekday driving, what would you say?",
+
+    "What should traffic planners prioritize when designing weekday vehicle limits?",
+    "You're consulting on policy—what criteria would you recommend for weekday restrictions?",
+    "As a mobility expert, how would you structure the decision process for weekday bans?",
+
+    "make weekday car plan what stuff matter?",
+    "rule driving weekday yes but what factor good idea?",
+    "traffic limit weekdays plan how choose fair rule?"
+  ],
+  "origin4-1": [
+    "Could you outline the main elements that belong in a formal government support request letter?",
+"What should I include if I’m writing to request public service support from a government department?",
+"How do I write something official-looking to ask the gov for help without getting ignored?",
+"Given a request is being sent to a department, what key parts should the letter contain?",
+"A list should be provided of the necessary components within a formal request submitted to local authorities.",
+"If someone were to draft a formal request for government support, what structure would make it complete?",
+"Boil down what must go into a formal letter asking for local public service assistance.",
+"Write a short checklist of what matters in a government-targeted service request.",
+"If you had to tell someone how to ask the local government for help, what would they need to include?",
+"As a city staffer reviewing incoming support requests, what would you expect a valid letter to contain?",
+"What should be included to make a public support letter to city officials complete and appropriate?",
+"You are mentoring a community rep writing to their local office—what should go in the letter?",
+"Gov support ask. Letter write what parts? official format?",
+"Need help ask local office. What things put letter get help?",
+"Public service letter → gov → what write inside for approval?"
+  ],
+  "origin4-2": [
+   "Describe the dangers of global warming like it’s an emergency.",
+    "Can you explain climate change in a tone that shows how serious it is?",
+    "Yo, the planet’s on fire—how bad is it really?",
+
+    "Explain global warming urgently—this is not a drill.",
+    "What’s happening with climate change, and why is it getting so intense?",
+    "If the planet were in critical condition, how would you describe global warming?",
+
+    "Break down global warming like you're warning someone who needs to act now.",
+    "Describe the climate crisis in terms that reflect how bad it’s gotten.",
+    "If you had to wake someone up about climate change, what would you say?",
+
+    "What’s the fastest way to alert people about global warming’s impact?",
+    "You're writing a warning for policymakers—how do you explain global warming’s urgency?",
+    "As a climate expert shouting into a microphone, what would you say about warming?",
+
+    "climate now bad very hot explain fast urgent help",
+    "warming global yes now problem extreme tell truth fast",
+    "heat rise disaster soon how explain urgent why now"
+  ],
+  "origin4-3": [
+     "So what’s the deal with climate change these days?",
+    "Can you explain climate change like we’re just chatting?",
+    "Yo, what’s up with the weather being all messed up lately?",
+
+    "Describe global warming like you’re talking to a buddy over coffee.",
+    "If I asked about climate change at brunch, how would you explain it?",
+    "Imagine your friend’s confused—how would you casually break down climate change?",
+
+    "Just give me the quick lowdown on climate change, nothing fancy.",
+    "Break down what’s going on with the climate, no science talk—just real talk.",
+    "If I don’t want a lecture, how would you explain climate change?",
+
+    "What’s going on with the planet’s temperature? Like, seriously—but chill.",
+    "You’re at a party—how would you explain climate change to someone kinda tipsy?",
+    "As a friend who just read one article, how would you describe what’s happening to Earth?",
+
+    "climate get weird friend ask why you say what?",
+    "weather hot now planet bad casual explain yes?",
+    "yo dude planet heating up why tho?"
+  ],
+  "origin4-4": [
+    "How can we talk about sea-level rise without losing hope?",
+    "What’s a positive way to explain sea-level risks and what we can do about them?",
+    "So like, yeah the water’s rising, but there’s stuff we can still fix, right?",
+
+    "Explain the danger of sea-level rise, but highlight solutions and progress.",
+    "How can we frame sea-level threats in a way that empowers people?",
+    "If you're raising awareness, how do you keep the message hopeful?",
+
+    "Talk about sea-level rise as a challenge we’re ready to meet.",
+    "Describe rising oceans, but also focus on adaptation and resilience.",
+    "If someone’s worried about sea-levels, how do you give them facts and hope?",
+
+    "What’s the uplifting way to explain sea-level rise risks?",
+    "You're writing a school handout—how do you frame sea-level rise optimistically?",
+    "As a climate communicator, how would you present sea-level threats with a hopeful tone?",
+
+    "water rise yes but fix possible what hope explain?",
+    "sea up but we try smart solve yes explain happy?",
+    "bad wave come but we build strong save place ok?"
+  ],
+  "origin4-5": [
+      "Can you explain how extreme weather impacts society, in a straightforward way?",
+    "What are the main effects of extreme weather, without dramatizing it?",
+    "So what actually happens when weather goes to the extreme, just the facts?",
+
+    "Outline the consequences of extreme weather events in a neutral tone.",
+    "Describe major outcomes from extreme weather without emotional language.",
+    "If someone asked about extreme climate events, how would you explain them objectively?",
+
+    "Give a fact-based summary of what extreme weather can do to cities and people.",
+    "List typical results of extreme heat, storms, or floods in a calm and clear way.",
+    "How would you neutrally explain the risks posed by increasing severe weather?",
+
+    "What’s a straightforward way to present the effects of extreme weather events?",
+    "You're preparing a briefing—how do you describe weather disruptions clearly but calmly?",
+    "As a science communicator, how would you outline the facts about extreme weather without alarm?",
+
+    "bad weather yes list what happen clear tone?",
+    "effects storm heat wave list explain not scary?",
+    "just say what flood fire heat do no emotion ok?"
+  ],
+  "origin5-1": [
+    "So what’s actually driving climate change? Just tell it straight.",
+"Could you briefly explain what’s causing the climate to change these days, in scientific terms?",
+"Why does the climate keep freaking out—what’s messing it up now?",
+"Climate change is driven by several key causes that should be explained in scientific terms.",
+"If one were to explain climate change without bias, what would be the root drivers involved?",
+"Given that global temperatures are rising, what are the main reasons for this trend?",
+"Boil down the core drivers behind climate change in scientific terms.",
+"If someone asked what’s heating up the planet, how would you answer clearly and factually?",
+"Write a short list of what’s causing the earth to heat up.",
+"What factors should be mentioned when explaining climate change in a school science blog?",
+"As a fact-checker reviewing an article on climate change, what core causes must be there?",
+"You’re helping a student write a paragraph about global warming—what points should they include?",
+"Climate heat planet—why? explain clear. main cause?",
+"Hot earth. Climate shift. what reason? say science thing.",
+"Planet warm. Fact? how explain no politics just logic?"
+  ],
+  "origin5-2": [
+    "Can you tell a 7-year-old what gravity is?",
+    "How would you explain gravity to a little kid?",
+    "Okay, so like, what makes stuff fall down? Tell it like I’m small.",
+
+    "Explain gravity like you're talking to a second-grader.",
+    "What is gravity, if you had to explain it to a young child?",
+    "If a 7-year-old asked why apples fall, what would you say?",
+
+    "Describe gravity using words a kid would understand.",
+    "How would you teach a child what gravity is without big science words?",
+    "If you had to say what gravity does in one sentence for a kid, how would you put it?",
+
+    "What’s gravity? Just explain it simply for a young kid.",
+    "You're helping a teacher—what’s a good kid-friendly way to explain gravity?",
+    "As a parent, how would you tell your child why things fall down?",
+
+    "why drop toy floor always explain kid style?",
+    "gravity pull stuff down yes how explain small?",
+    "what is fall down reason when hold let go?"
+  ],
+  "origin5-3": [
+    "Can you tell a first-grader what a rainbow is?",
+    "How do you explain a rainbow to a little kid?",
+    "Okay, so like, what’s that colorful thing in the sky after it rains?",
+
+    "Explain rainbows like you're talking to a 6-year-old.",
+    "What is a rainbow, if you had to say it simply for a kid?",
+    "If a first-grader asked why rain makes colors in the sky, what would you say?",
+
+    "Describe a rainbow using fun and simple words a child would like.",
+    "How would you talk about rainbows without big science words?",
+    "If you had to explain what makes a rainbow in one line to a kid, how would it sound?",
+
+    "What’s a rainbow? Just explain it in a way a kid could understand.",
+    "You're helping a teacher—how should they explain rainbows to young kids?",
+    "As a parent, how would you describe a rainbow to a child who just saw one?",
+
+    "rain make sky color line why yes explain small?",
+    "rain sun mix boom colors sky how say kid way?",
+    "what is rainbow line colors sky rain happy time?"
+  ],
+  "origin5-4": [
+     "How would you explain the water cycle to a kid who can’t read yet?",
+    "Can you tell a small child where rain comes from and where it goes?",
+    "Okay, how do you talk about water going up and down to a toddler?",
+
+    "Explain the water cycle like you’re talking to a 4-year-old.",
+    "What’s a way to talk about rain and clouds to a kid who doesn’t read yet?",
+    "If a little kid asks why rain happens, what would you say with simple words?",
+
+    "Describe how water goes up and comes back down, using words a tiny kid understands.",
+    "How would you tell a non-reading child about clouds, sun, and rain?",
+    "Say what the water does in the sky and on the ground, very simply.",
+
+    "Where does the rain go? And how does it come back? Tell a little kid.",
+    "You're helping a preschool teacher—how should they explain the water cycle out loud?",
+    "As a grown-up talking to a toddler, how do you explain where water comes from?",
+
+    "water go up sun hot then fall down yes?",
+    "cloud drink water then give it back down rain?",
+    "water up sky then boom rain fall again play?"
+  ],
+  "origin5-5": [
+     "Can you tell a kid what germs are, in a fun way?",
+    "How do you explain germs to a little kid so they’re not scared?",
+    "So like, what are those tiny things that make us sick but in a silly way?",
+
+    "Describe what germs are using kid-friendly words.",
+    "What are germs, if you had to explain it to a child who just washed their hands?",
+    "If a kid asks why we clean stuff, how do you explain germs without being scary?",
+
+    "Explain germs like they’re invisible tiny bugs we want to wash away.",
+    "Tell a fun story about what germs do and how we stop them with soap.",
+    "How would you say what germs are if you had only five-year-old words?",
+
+    "Why do we wash hands? Just say it for a kid to understand.",
+    "You’re helping a preschool teacher explain germs—what’s a good way to say it?",
+    "As a parent, how would you describe germs after a sneeze?",
+
+    "germ tiny jump on hand make sick wash go bye?",
+    "little bad dots on stuff touch then ow tummy?",
+    "sneeze come germs go zoom must wash boom gone!"
+  ],
+
+  "origin6-1": [
+    "Can you help a student explain the difference between weather and climate simply?",
+"So what's the big deal between weather and climate? Can you break it down?",
+"Weather, climate—same or not? Help me out here, like I'm 10.",
+"An explanation should be provided to distinguish between weather and climate in simple terms.",
+"Given that both involve atmosphere, how do we explain the difference between climate and weather?",
+"If one were to tell a student how weather and climate are different, what would they say?",
+"How would you explain the difference between weather and climate to a fourth grader?",
+"Boil down the main way to tell weather and climate apart for a young student.",
+"Write a short guide a kid could follow to understand climate vs. weather.",
+"What should a teacher say to help a student grasp the difference between climate and weather?",
+"You're helping a child with homework. How do you explain weather vs. climate so it's clear?",
+"As an educator, how would you frame the difference so even a kid can understand?",
+"Climate or weather? kid explain how? simple!",
+"Weather = now, climate = long? right? help explain!",
+"Student want to know: not same? weather? climate? why??"
+  ],
+  "origin6-2": [
+    "Can you write a polite message asking a professor to review your essay grade?",
+    "How would you respectfully ask for a second look at your essay?",
+    "Okay so like, how do I say 'please reread my essay' without sounding mad?",
+
+    "Draft a respectful appeal for reconsidering your essay score.",
+    "What’s a polite way to ask your professor to recheck an essay evaluation?",
+    "If you think your essay deserved a higher grade, how would you ask for a review?",
+
+    "Explain why your essay might have been misgraded, using professional language.",
+    "Describe how you’d ask for an essay re-evaluation without sounding confrontational.",
+    "Write something you’d send if you felt the feedback didn’t match your essay content.",
+
+    "What’s the best way to say ‘I’d like you to take another look at my essay’ kindly?",
+    "You're emailing a professor—how do you respectfully request an essay review?",
+    "As a student unsure about an essay grade, how would you write an appeal that sounds fair?",
+
+    "essay grade feel low maybe check please again?",
+    "hello professor essay not match score read more yes?",
+    "my writing not bad i think please look one more?"
+  ],
+  "origin6-3": [
+     "Can you ask nicely for a professor to double-check a grading mistake?",
+    "How would you request a review if you think your grade has an error?",
+    "So like… how do I say ‘you marked it wrong’ but without being rude?",
+
+    "Write a polite message asking for reconsideration due to a grading mistake.",
+    "What’s a good way to bring up a possible grading error respectfully?",
+    "If something looks off in your grade, how do you raise it calmly?",
+
+    "Explain how you’d reach out about a grading issue without sounding confrontational.",
+    "Describe a way to point out a grading error that’s courteous and professional.",
+    "If you believe your answer was marked incorrectly, how would you request a second look?",
+
+    "What’s the nicest way to say ‘I think this mark was a mistake’?",
+    "You're emailing your instructor—how do you bring up a grading inconsistency?",
+    "As a careful student, how would you phrase a request for grade reconsideration?",
+
+    "grade wrong maybe yes please see again thanks?",
+    "hello i see grade but think not match can check?",
+    "i believe one question mark error could you look?"
+  ],
+  "origin6-4": [
+
+    "Can you explain why your test deserves to be reviewed again?",
+    "Write a respectful request for a re-evaluation of your exam score.",
+    "How would you ask your professor to take another look at your marked answer?",
+
+    "If you believe a test response was misgraded, how do you phrase that politely?",
+    "Draft a message asking for a grade check on a specific part of the assignment.",
+    "What’s a professional way to request your exam be reviewed for possible errors?",
+
+    "Explain how your answer meets the grading criteria and why it should be reconsidered.",
+    "Ask to have a test question rechecked due to potential grading oversight.",
+    "Provide reasoning for why your test score may not reflect your actual response.",
+
+    "Say you suspect your answer was misunderstood—how do you ask for a re-evaluation?",
+    "How would a student request clarification or review of a score they think is incorrect?",
+    "If a point was missed in grading, how would you address it respectfully?",
+
+    "professor maybe review answer again match rubric please?",
+    "my test part maybe misread grading fair check again yes?",
+    "can question be re-evaluated? I believe the response deserves credit"
+
+
+  ],
+  "origin6-5": [
+    "How would you politely ask a professor to recheck if your submission was received?",
+    "Can you write a message asking your teacher to take another look for your assignment?",
+    "Okay but like, how do I tell the prof I definitely sent it… without sounding panicked?",
+
+    "Write a respectful note asking your professor to verify your submission again.",
+    "What’s a nice way to say 'I think my work is there, could you double-check?'",
+    "If you submitted something but don’t see a grade, how would you bring that up?",
+
+    "Explain how you’d ask your professor to look again for your uploaded assignment.",
+    "Describe how to request a submission check without sounding accusatory.",
+    "If your file might have been missed, how do you bring that up respectfully?",
+
+    "What’s the most tactful way to ask a professor to check for your missing work?",
+    "You're emailing your instructor—how do you ask them to confirm your submission?",
+    "As a worried student, how would you convince your professor to recheck the files?",
+
+    "hello think i sent work maybe check again please?",
+    "assignment i upload but not see mark can look?",
+    "submission done i sure but no grade check again?"
+  ],
+  "origin7-1": [
+    "Can you help draft a polite message to ask a professor for a grade review on an assignment?",
+"What’s a decent way to ask your professor to take another look at your grade without sounding rude?",
+"Yo, got wrecked on this grade—how do I ask the prof to check it without making things worse?",
+"A formal message should be composed to respectfully request a reassessment of a low assignment grade.",
+"Were someone to write to a professor for a grade appeal, what would be the best respectful wording?",
+"Given the unexpectedly low score, how should a student frame a request for grade reconsideration?",
+"Boil down how to write a polite and formal message asking for a professor to review a grade.",
+"Write a short email asking nicely for a grade to be reviewed by the professor.",
+"If someone needs to appeal a bad grade, what’s the right tone and structure for a respectful message?",
+"What should a student include when emailing a professor to request a grade review?",
+"You're helping a classmate write a respectful message to ask for a grading clarification—what should it say?",
+"As an academic advisor, how would you suggest a student reach out about a possible grading mistake?",
+"Grade low. Email prof. Review ask. Polite how write?",
+"Message: grade unfair? want review. write nice way.",
+"Assignment bad grade → how say 'check please' without sounding rude?"
+  ],
+  "origin7-2": [
+   "Can you explain your motivation for moving from econ to computer science?",
+    "How would you tell reason why you’re switching from economics to CS?",
+    "why do you jump from graphs and supply to code and algorithms?",
+
+    "Explain your academic reasons for transferring from economics to CS.",
+    "What makes computer science a better fit for you than economics?",
+    "If you're leaving econ for CS, what's your reasoning?",
+
+    "Describe your personal and academic interest in changing from economics to computer science.",
+    "What drove your decision to shift fields from econ to computing?",
+    "How would you explain to a faculty advisor that your interests are now in CS?",
+
+    "Why do you think computer science is the right major for you now?",
+    "You're writing a statement—why is CS the next step after studying econ?",
+    "As a student switching majors, what’s your case for moving into computer science?",
+
+    "econ boring cs better build stuff me go switch yes?",
+    "i do number now want code explain change?",
+    "old major not match dream now cs yes reason tell?"
+  ],
+  "origin7-3": [
+    "Can you say what’s pushing you to change your major?",
+    "How would you explain why you want to switch fields?",
+    "Okay but like, what’s really making you want to start over in another major?",
+
+    "Describe the core motivation behind your major change.",
+    "What factors led to your decision to transfer to another field of study?",
+    "If you’re moving to a new major, what’s the reason behind the shift?",
+
+    "Explain your personal, academic, or professional motivation to change majors.",
+    "What made you feel that your current major wasn’t the right path?",
+    "If you had to explain your transfer motivation to a department advisor, what would you say?",
+
+    "What’s the most important reason you’ve decided to pursue a different major?",
+    "You're writing a transfer application—what’s your motivation for leaving one major for another?",
+    "As a student switching paths, how do you justify this shift to someone who knows your academic record?",
+
+    "change major because want match me now right yes?",
+    "me no fit before now better plan switch tell why?",
+    "what reason inside you go move new major big choice?"
+  ],
+  "origin7-4": [
+    "How did your interests change over time toward a different field?",
+    "Can you explain how your academic focus moved in a new direction?",
+    "Okay, but like, how’d you go from ‘this is my thing’ to ‘wait, maybe it’s not’?",
+
+    "Describe the shift in your interests that led you to consider a new major.",
+    "What changed in your thinking that made you want to study something else?",
+    "If your passions evolved, how would you explain the move toward a different field?",
+
+    "Explain what sparked your transition from one academic area to another.",
+    "How did your experiences lead you to realize a different field fits better?",
+    "If you had to describe your intellectual journey, how did it take a new turn?",
+
+    "What personal or academic events caused your interests to shift majors?",
+    "You're writing a transfer essay—how do you tell the story of your changing interests?",
+    "As a student who switched focus, how would you describe what led to the change?",
+
+    "before like A now like B how come tell story?",
+    "me like one thing then not now new thing more yes explain?",
+    "why change want learn new topic now what change brain?"
+  ],
+  "origin7-5": [
+      "How would you explain changing your major because of your long-term career goals?",
+    "Can you describe how your future plans influenced your program switch?",
+    "Okay, but like, how does this new major help with the job you actually want?",
+
+    "Justify your decision to transfer fields based on your intended career path.",
+    "What career objectives made you realize a different program was better suited?",
+    "If you’re aiming for a certain role, how does switching majors get you closer to it?",
+
+    "Explain how your career plans led you to reevaluate your academic path.",
+    "Describe how your desired profession lines up better with a new area of study.",
+    "What professional future are you aiming for, and how does this switch help?",
+
+    "Why is this program change the right move for your long-term career development?",
+    "You're writing a transfer justification—how does this new field support your goals?",
+    "As a student refining your future path, how do you argue for your new academic direction?",
+
+    "old major not match job dream now new one yes?",
+    "career want do X but need new class track why explain?",
+    "plan future change study reason better fit job goal"
+  ],
+  "origin8-1": [
+  "Can you help write a nice explanation for switching majors that sounds sincere and goal-focused?",
+"How can I explain my decision to switch majors so that it shows I have a clear academic direction and not just uncertainty?",
+"So I’m thinking of changing majors—how do I explain it without sounding flaky?",
+"A clear paragraph should be written that explains the student’s motivation for switching majors, emphasizing academic and personal goals.",
+"Given the student’s change in academic direction, what’s a good way to phrase the reason for transferring to a new major?",
+"If a student applies to switch majors, how should they explain it clearly to show their goals and motivation?",
+"Write a short and convincing paragraph that justifies switching majors based on interest and goals.",
+"If someone asked you to explain why you’re changing majors, how do you say it clearly and respectfully?",
+"Boil down the reasoning a student should include when explaining a major change request.",
+"What should a student include in a written request to switch majors at university?",
+"You’re helping a student draft a paragraph to support their major change application—what should they say?",
+"As a career counselor, how would you frame a major-switch explanation that sounds motivated and well-considered?",
+"Student major wrong fit → explain why new one better?",
+"Major change. Want switch. write clear. reason? goal?",
+"Old major not work. New major? say how, explain short."
+  ],
+  "origin8-2": [
+    "How would you explain the cost of meals during a conference for reimbursement?",
+    "Can you justify why the food expenses at the event were reasonable?",
+    "Okay but like, how do I say ‘how much is the expenses for the conference?",
+
+    "Write a compliant explanation for the conference meal expenses listed.",
+    "What’s a proper way to justify the amount spent on meals at a conference?",
+    "If finance asks why meals were that price, what do you say?",
+
+    "Explain how the meal costs align with typical conference pricing.",
+    "Describe why the listed food expenses were necessary and within reason.",
+    "How do you defend spending $X on meals while attending a full-day event?",
+
+    "What’s a professional way to show that the meal charges were valid?",
+    "You're filling out a report—how do you justify the conference dining total?",
+    "As someone attending a multi-day conference, how would you explain the food costs?",
+
+    "meal cost high yes but conference price normal okay?",
+    "had to eat during event place food only option yes explain?",
+    "food was not fancy just needed eat between sessions please approve"
+  ],
+  "origin8-3": [
+      "Can you explain why the taxi ride should be covered by reimbursement?",
+    "How would you justify this taxi expense under company policy?",
+    "How do I say I had to call a cab that is eligible?",
+
+    "Write a brief justification for the listed taxi expense.",
+    "What’s a professional explanation for this cab fare during the trip?",
+    "If finance asks why you didn’t taxi, what do you tell them?",
+
+    "Explain how the taxi ride was necessary and eligible.",
+    "Describe why public transit wasn’t an option and the taxi was appropriate.",
+    "How do you defend using a taxi for this part of the event schedule?",
+
+    "What’s a clean way to explain that this taxi trip wasn’t excessive?",
+    "You're submitting a reimbursement—how do you write the reason for the cab ride?",
+    "As a traveler on a tight schedule, how would you explain the use of a taxi?",
+
+    "had to reach meeting on time no bus yes taxi okay?",
+    "event far no shuttle rain time pressure taxi needed yes?",
+    "uber fast safe needed schedule match approve please?"
+  ],
+  "origin8-4": [
+    "Can you explain what the incidental charges were in a simple, natural way?",
+    "How would you describe minor expenses that still qualify for reimbursement?",
+    "Okay but like, how do I say ‘these were small but necessary costs’ without sounding guilty?",
+
+    "Write a brief, reasonable explanation for the incidental expenses listed.",
+    "What’s a good way to phrase incidental charges so they sound legitimate?",
+    "If finance asks why these extra charges are here, what do you say?",
+
+    "Explain the purpose of incidental charges in the context of travel support.",
+    "Describe how these minor costs supported the main event activities.",
+    "How do you justify miscellaneous charges without over-explaining?",
+
+    "What’s a natural way to say these small costs were needed during the trip?",
+    "You're finalizing a report—how do you describe your incidental expenses?",
+    "As someone at a conference, how would you defend small charges like snacks, supplies, or tips?",
+
+    "small cost help trip yes needed useful not waste",
+    "extra fee happen but helpful event flow yes ok",
+    "incidental like water tip print thing please allow?"
+  ],
+  "origin8-5": [
+
+    "Can you briefly explain why the incidental charges were necessary?",
+    "How would you describe these small extra costs in a professional way?",
+    "What’s a reasonable way to explain minor, reimbursable expenses?",
+
+    "Write a natural justification for incidental items like snacks or printing.",
+    "How do you describe minor costs so they sound appropriate and valid?",
+    "If finance asks about the extras, how do you clarify their purpose?",
+
+    "Explain how these incidental charges supported the main trip purpose.",
+    "Describe the reason for these small charges in context of event participation.",
+    "What’s a polite way to say these were small but important expenses?",
+
+    "How can someone phrase a defense for minor charges during official travel?",
+    "You're submitting an expense report—how do you explain incidentals simply?",
+    "If small items like water, tips, or supplies appear, how do you account for them?",
+
+    "minor charges support event task context clear yes justify",
+    "small cost aligned with purpose of trip please allow",
+    "incidental charge necessary for smooth work-related activity"
+  ],
+  "origin9-1": [
+    "Can you help phrase a short reason for a reimbursement request for academic software?",
+"What’s a good way to say I bought research software and want the school to cover it?",
+"Trying to get reimbursed for some software I needed—how should I say it so it sounds official?",
+"A justification should be written to support a reimbursement request for academic research software.",
+"Given the purchase of academic software, what’s the best way to justify reimbursement to university finance?",
+"If a researcher requests reimbursement for software, how should the rationale be phrased to meet formal expectations?",
+"Boil down how to explain a software reimbursement request in an appropriate academic tone.",
+"Write a short, acceptable reimbursement note explaining that the software was used for research.",
+"If someone asked you to justify a reimbursement for academic tools, what would you write in one line?",
+"As a department assistant, how would you phrase a brief note justifying software reimbursement?",
+"What should a researcher say in a reimbursement memo for software they bought for a funded project?",
+"You’re helping a student submit a reimbursement form for research software—what’s a proper note?",
+"Bought software. Research use. Need refund. How say right?",
+"Reimburse tool for academic project—write reason, short, clear?",
+"Software use academic → money back form reason write?"
+  ],
+  "origin9-2": [
+    "Can you write a formal reason for why a required document is missing?",
+    "How would you explain the absence of documentation in a professional tone?",
+    "Okay, but like, how do I say ‘I lost it’ without looking shady?",
+
+    "Provide a formal explanation for the absence of a necessary receipt.",
+    "What’s a suitable audit-friendly reason for missing paperwork?",
+    "If an expense has no proof attached, how do you justify it carefully?",
+
+    "Explain why the documentation could not be included with the report.",
+    "Describe the circumstances that led to missing the required supporting file.",
+    "How would you write a clear, respectful note explaining the lost record?",
+
+    "What’s the correct tone to use when a document cannot be recovered?",
+    "You're responding to a financial reviewer—how do you acknowledge the gap?",
+    "As someone completing an audit log, how do you account for missing evidence?",
+
+    "lost paper not find tried yes still gone explain ok?",
+    "receipt not have now event fast no time get copy yes sorry?",
+    "item real buy doc gone now reason try fix yes"
+  ],
+  "origin9-3": [
+   "Can you write a professional response explaining financial discrepancies?",
+    "How would you reply to a question about mismatched record entries?",
+    "Okay but like, how do I say ‘we made a number mistake’ without sounding guilty?",
+
+    "Respond formally to an inquiry about inconsistent transaction amounts.",
+    "What’s a reasonable explanation for mismatched totals in two expense records?",
+    "If asked about conflicting financial data, what’s a clean way to explain it?",
+
+    "Explain how a reporting or entry error may have caused inconsistent figures.",
+    "Describe how minor administrative variation could lead to record mismatch.",
+    "Write a short, respectful note addressing financial inconsistency concerns.",
+
+    "What’s a compliant-sounding reason for slightly differing amounts in financial logs?",
+    "You’re replying to accounting—how do you acknowledge an unintentional mismatch?",
+    "As a finance contact, how would you phrase a correction for inconsistency?",
+
+    "entry typo small number different fixed now explain yes?",
+    "mistake not fraud just input issue now corrected true?",
+    "amount vary report reason formatting or decimal sync fix ok?"
+  ],
+  "origin9-4": [
+     "How would you explain why a procurement didn't follow standard procedure?",
+    "Can you justify an exception to the regular purchasing policy?",
+    "Okay but like, how do I say ‘we skipped a step’ without sounding like a villain?",
+
+    "Write a formal justification for deviating from procurement protocol.",
+    "What’s an acceptable reason for bypassing the typical procurement route?",
+    "If the team had to act fast, how would you explain the process exception?",
+
+    "Describe the situation that led to using a nonstandard procurement method.",
+    "Explain how timing or resource constraints justified the deviation.",
+    "How do you acknowledge a procedural exception while maintaining compliance language?",
+
+    "What’s a tactful way to say the procurement didn’t follow every step for a good reason?",
+    "You're responding to oversight—how do you defend an alternate procurement path?",
+    "As someone involved in purchasing, how would you explain an ad-hoc approach?",
+
+    "not usual way but urgent need no delay had to act",
+    "yes skipped step reason event time short needed item fast",
+    "follow most rules one adjust for delivery ok explain"
+  ],
+  "origin9-5": [
+    "Can you write a letter explaining why compliance reporting was submitted late?",
+    "How would you formally address a delay in submitting a required report?",
+    "Okay but like, how do I say ‘sorry it’s late’ without sounding totally incompetent?",
+
+    "Write a professional letter justifying the delay in a compliance report.",
+    "What’s a proper way to notify an auditor about a late compliance submission?",
+    "If you missed a reporting deadline, how would you explain that in writing?",
+
+    "Explain the circumstances that led to delayed compliance documentation.",
+    "Describe how procedural or external factors affected reporting timelines.",
+    "Write a compliant and respectful letter explaining the late submission.",
+
+    "What’s a tactful way to acknowledge reporting delays to a compliance officer?",
+    "You’re writing to regulatory staff—how do you address a late report calmly?",
+    "As a responsible party, how do you communicate timeline deviations without raising alarms?",
+
+    "report late sorry system issue now sent yes",
+    "submission delay due schedule conflict now resolved please note",
+    "late but completed reason explained now back on track ok?"
+  ],
+  "origin10-1": [
+"Can you help me draft a calm, clear explanation for why a Q2 reporting mismatch happened and how we’ll fix it?",
+"How do we sound professional while explaining why the Q2 numbers were off and what we’ll do about it?",
+ "We need to explain a reporting error from Q2—how do we say it’s under control without sounding evasive?",
+"A response should be written that addresses the Q2 discrepancy and outlines corrective measures.",
+"Were an accounting irregularity noted in Q2, what structure should a formal explanation take?",
+"Given a mismatch in Q2 reporting, how can it be explained in a way that aligns with audit standards?",
+"Write a short, audit-safe reply that explains a Q2 discrepancy and how it’s being addressed.",
+"If someone needed to explain a reporting issue for Q2, how should it be stated clearly and responsibly?",
+"Boil down a compliant explanation for why Q2’s financial report had inconsistencies.",
+"As part of an internal audit response, what’s a professional way to explain and address the Q2 mismatch?",
+"What should a company say in reply to an audit team asking about Q2 reporting inconsistencies?",
+"You are advising a compliance officer—how should they explain a Q2 reporting variance?",
+"Q2 numbers off → reason? fix? explain audit okay?",
+"Audit ask: why Q2 not match? plan? reply write clear",
+"Mismatch Q2 → respond formal reason + correction?"
+  ],
+  "origin10-2": [
+    "How would you formally ask a supervisor for time off?",
+    "Can you write a professional message requesting leave from work?",
+    "Okay but like, how do I say ‘I won’t be here Friday’ without sounding like I hate my job?",
+
+    "Write a respectful request to take time off for personal reasons.",
+    "What’s a formal way to ask for a day off next week?",
+    "If you need time off, how do you phrase it to your manager politely?",
+
+    "Explain how you’d request leave without disrupting your team’s work.",
+    "Describe how to ask for time off while sounding responsible.",
+    "How do you write a short, formal email asking for a few days off?",
+
+    "What’s a tactful way to say ‘I need to be away from work’ temporarily?",
+    "You're requesting scheduled leave—how do you present that formally?",
+    "As an employee who needs time, how do you ask without sounding careless?",
+
+    "hello i not come work thursday please allow?",
+    "off day need me personal ok manager say yes?",
+    "next week day gone reason important request leave"
+  ],
+  "origin10-3": [
+     "How would you casually ask to move a meeting to a different time?",
+    "Can you write a chill message requesting a schedule shift?",
+    "Okay but like, how do I say ‘can we not do 9am’ without sounding whiny?",
+
+    "Write a friendly request to change the timing of a work event.",
+    "What’s a low-pressure way to ask to reschedule something?",
+    "If you want to adjust the time of a call, how would you casually bring it up?",
+
+    "Ask to bump a calendar item to later in the day, without being stiff.",
+    "Describe how you'd text a teammate to move something on the schedule.",
+    "How do you float a reschedule idea without making it sound urgent?",
+
+    "What’s a friendly way to suggest changing a time slot for a call?",
+    "You're asking to move a schedule how do you say it without being too formal?",
+    "As a coworker, how would you ask to shift a time slightly in a chill way?",
+
+    "hey is it cool if we move this a bit later?",
+    "mind if we nudge the timing on this?",
+    "thinking if we could do this an hour later maybe?"
+  ],
+  "origin10-4": [
+        "How would you politely remind someone about a form they haven’t returned?",
+    "Can you write a follow-up that’s firm but still respectful?",
+    "Okay but like, how do I say ‘pls send the form’ without sounding desperate or pushy?",
+
+    "Write a professional and courteous follow-up on a pending document.",
+    "What’s a tactful way to nudge someone about an uncompleted form?",
+    "If a form hasn’t been submitted yet, how would you request an update?",
+
+    "Explain how you'd follow up on a pending approval without sounding impatient.",
+    "Describe how to ask for form progress while keeping the tone professional.",
+    "How do you prompt action on something overdue without sounding like you're scolding?",
+
+    "What’s a polite but firm way to say 'just checking on this form'?",
+    "You're waiting on a form—how do you gently remind the person in charge?",
+    "As someone needing the form completed, how would you write a non-pushy ping?",
+
+    "hi just circling back on that form—any update?",
+    "gentle reminder: form still pending, hoping to move forward soon!",
+    "still waiting on form, would appreciate status when you get a chance"
+  ],
+  "origin10-5": [
+     "How would you politely ask someone to resend a document you misplaced?",
+    "Can you write a gentle, apologetic message requesting a document again?",
+    "how do I say ‘I lost it’ and still seem with apologetic tone?",
+
+    "Write a brief apology with a request to reissue a document.",
+    "What’s a nice way to ask for a document again when you already received it?",
+    "If you accidentally deleted something, how would you request it back gracefully?",
+
+    "Explain how to request a previously sent file again with a humble tone.",
+    "Describe a polite and regretful way to say you need a new copy of a file.",
+    "How do you apologize for losing a document without sounding completely unqualified?",
+
+    "What’s a tactful way to say ‘please resend’ with a dash of ‘my bad’?",
+    "You're asking for a reissue—how do you admit it’s your fault without making it weird?",
+    "As someone who misplaced a file, how would you write a professional request?",
+
+    "hi sorry to ask—could you resend that doc? totally my fault!",
+    "embarrassing but I seem to have lost the file—would you mind resending?",
+    "apologies, I can’t locate the document—could you kindly share it again?"
+  ]
+}
