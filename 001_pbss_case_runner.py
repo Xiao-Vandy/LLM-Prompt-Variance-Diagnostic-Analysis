@@ -6,12 +6,10 @@ import seaborn as sns
 from sklearn.metrics.pairwise import cosine_similarity
 from transformers import AutoTokenizer
 from sklearn.metrics.pairwise import manhattan_distances
-openai.api_key="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"
+openai.api_key="Your Key"
 nltk.download('punkt')
 
-# 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
 
-# git clone https://davis4better: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@huggingface.co/meta-llama/Llama-2-7b-chat-hf
 
 from sklearn.manifold import TSNE
 import matplotlib.pyplot as plt

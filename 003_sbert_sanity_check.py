@@ -7,11 +7,9 @@ from collections import defaultdict
 model = SentenceTransformer('all-mpnet-base-v2')
 
 
-# ✅ Step 2: 原始 prompt（你的original）
 origin_prompt = "Ask your supervisor for time off, formally."
 
 prompt_num=10
-# ✅ Step 3: prompt 变体（直接复制 18 条进去）
 prompts = [
     "How would you formally ask a supervisor for time off?",
     "Can you write a professional message requesting leave from work?",
@@ -117,8 +115,8 @@ plt.grid(True)
 plt.tight_layout()
 # plt.show()
 plt.savefig(f"figure/sanity_check_case{prompt_num}.pdf", bbox_inches="tight")
-plt.clf()  # 清空当前 figure
-plt.close()  # 关闭当前 plot（释放内存）
+plt.clf()
+plt.close()
 
 print("\n=== 🔍 Prompt Debug Printout (Semantic + Syntax Drift) ===\n")
 print(f"[00] Original Prompt (SBERT = 1.0000)\n→ {origin_prompt}\n")

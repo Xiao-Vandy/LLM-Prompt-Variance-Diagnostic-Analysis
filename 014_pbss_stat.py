@@ -1,7 +1,6 @@
 import pandas as pd
 from scipy.stats import kruskal
 
-# 路径配置
 file_map = {
     "MiniLM-L6": "pbss_MiniLM-L6/pbss_summary_all-MiniLM-L6-v2.csv",
     "MiniLM-L12": "pbss_MiniLM-L12/pbss_summary_paraphrase-MiniLM-L12-v2.csv",
@@ -15,7 +14,7 @@ for encoder_label, filepath in file_map.items():
     df["encoder"] = encoder_label  # 添加 encoder 名称标签
     all_dfs.append(df)
 
-# 合并成一个总的 dataframe
+
 merged_df = pd.concat(all_dfs, ignore_index=True)
 
 print("=== Individual Kruskal-Wallis Tests by Encoder ===")
@@ -61,7 +60,6 @@ merged_df.to_csv("pbss_combined_all_encoders.csv", index=False)
 print("Merged PBSS file saved as 'pbss_combined_all_encoders_3p.csv'")
 
 
-# 描述统计表
 summary_stats = merged_df.groupby("model")["avg_pbss"].describe()
 print("\n=== Descriptive Statistics by Model ===")
 print(summary_stats)

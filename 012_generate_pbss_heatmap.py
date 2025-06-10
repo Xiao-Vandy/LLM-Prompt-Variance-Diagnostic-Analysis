@@ -40,8 +40,8 @@ def compute_pbss_matrix(vectors):
 # === Heatmap plotting ===
 def plot_heatmap_raw(pbss, labels, title, heatmap_name,vmax_global=0.8,):
     n = len(labels)
-    base_size = 0.5  # 每个cell分配的图像宽度（英寸）
-    figsize = (max(8, n * base_size), max(6, n * base_size))  # 最小限制防止太小
+    base_size = 0.5
+    figsize = (max(8, n * base_size), max(6, n * base_size))
 
     plt.figure(figsize=figsize)
     sns.heatmap(pbss, annot=True, fmt=".2f",
@@ -68,7 +68,6 @@ def plot_heatmap_zscore_global(pbss, labels, title, heatmap_name):
     non_diag = flat_pbss[~np.eye(flat_pbss.shape[0], dtype=bool)]
     z_vals = zscore(non_diag)
 
-    # 回填到 n x n 结构
     z_pbss = np.zeros_like(flat_pbss)
     k = 0
     for i in range(flat_pbss.shape[0]):
@@ -147,13 +146,6 @@ def plot_heatmap_zscore_per_row(pbss, labels, title, heatmap_name):
 # === Main summary script ===
 def generate_pbss_summary(csv_path):
     df = pd.read_csv(csv_path)
-    # 每个 origin → 对应一个 15 prompt 组（3 variant × 5 dimension）
-    # 每个 model 和 temperature 给出 15 个输出
-    # 你拿这 15 个输出生成 PBSS → 就是一个 15 × 15 的 cosine similarity matrix
-    # 看某个 origin 的 prompt group 内部是否行为一致
-    # 看哪个 dimension 的 prompt variants 在模型眼里完全不同（= drift）
-    # 看高温 vs 低温下模型的 行为稳定性差异
-
     # grouped = df.groupby(["origin", "level", "model", "temperature"])
     grouped = df.groupby(["origin", "model", "temperature"])
 

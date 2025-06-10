@@ -31,13 +31,13 @@ model_name_map = {
     # 'mythomax-I2-13B-Q6': 'Mythomax-I2-13B-Q6'
 }
 df["model"] = df["model"].map(model_name_map)
-# 平均 & 最大 PBSS
+
 mean_df = df.groupby("model")["avg_pbss"].mean().reset_index(name="pbss_mean")
 max_df = df.groupby("model")["avg_pbss"].max().reset_index(name="pbss_max")
 summary = pd.merge(mean_df, max_df, on="model")
 print(summary.sort_values("pbss_mean"))
 
-# ✅ 分温度画 CDF
+
 import matplotlib.pyplot as plt
 import seaborn as sns
 

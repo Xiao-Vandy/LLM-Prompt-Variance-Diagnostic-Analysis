@@ -1,7 +1,6 @@
 # LLM-Prompt-Variance-Diagnostic-Analysis
 
-# PBSS Toolkit (Private until post-review)
+# PBSS Toolkit
 This repository contains the toolkit, evaluation code, and visualizations for the paper:
-"When Meaning Stays the Same, but Models Drift: Evaluating Tokenization-Induced Behavioral Instability in LLMs"
+"When Meaning Stays the Same, but Models Drift: A QoS Framework for Token-Level Behavioral Instability"
 
-📌 This repo is private during the anonymous review process. It will be made public upon acceptance.

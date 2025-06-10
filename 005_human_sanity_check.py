@@ -10,7 +10,7 @@ data = {
 }
 df = pd.DataFrame(data)
 
-# 堆叠柱状图
+
 df.set_index("Variant").plot(kind="bar", stacked=True, figsize=(12, 6), colormap="coolwarm")
 plt.title("Human Annotation Consistency on Prompt Style Severity")
 plt.xlabel("Prompt Variant ID")
@@ -19,6 +19,6 @@ plt.legend(title="Style Label")
 plt.tight_layout()
 plt.savefig("human_consistency_chart.pdf")
 plt.show()
-plt.clf()  # 清空当前 figure
-plt.close()  # 关闭当前 plot（释放内存）
+plt.clf()
+plt.close()
 
