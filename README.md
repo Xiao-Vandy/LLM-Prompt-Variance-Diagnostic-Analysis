@@ -55,8 +55,11 @@ This project does not claim isolation from related research—instead, it seeks 
 
 # Acknowledgments
 
-This work was supported by Richard Alan Peters II, Ph.D., Associate Professor of Electrical and Computer Engineering, Emeritus.
+This work was supported by Richard Alan Peters II, Ph.D., Associate Professor of Electrical and Computer Engineering, Emeritus at Vanderbilt University.
 
 His guidance throughout the project was invaluable.
+
+This project was initiated and developed by Xiao Li, M.S. student in Electrical and Computer Engineering at Vanderbilt University, Joel Kreuzwieser, 3rd Year Professional Doctorate of Medical Physics (DMP) Student in Diagnostic Imaging | Vanderbilt University School of Medicine Resident 
+
 
 Special thanks to the Hugging Face and open-source communities for making large-scale LLM testing feasible even for student researchers.
