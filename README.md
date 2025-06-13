@@ -52,3 +52,11 @@ While prompt robustness in LLMs has been explored in prior literature, most effo
 To our knowledge, this is the first systematic effort to define PBSS as a protocol for evaluating token-level behavioral instability across LLMs. Unlike prior works which implicitly test prompt robustness, PBSS establishes a reproducible benchmark framework with interpretable output metrics and clearly defined perturbation dimensions.
 
 This project does not claim isolation from related research—instead, it seeks to operationalize and consolidate this evaluation paradigm into an extensible toolset that others can adapt, build on, or critique.
+
+# Acknowledgments
+
+This work was supported by Richard Alan Peters II, Ph.D., Associate Professor of Electrical and Computer Engineering, Emeritus.
+
+His guidance throughout the project was invaluable.
+
+Special thanks to the Hugging Face and open-source communities for making large-scale LLM testing feasible even for student researchers.
