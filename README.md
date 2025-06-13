@@ -43,7 +43,8 @@ If you use the PBSS framework or any part of this repository in your research, p
 }</pre>
 
 # Q&A: Note on Related Work
-While the robustness of LLMs to prompt variation has been explored in prior research, existing approaches often focus on task-specific metrics or qualitative case studies. PBSS, by contrast, frames semantic-preserving perturbations as a controlled axis of variation and applies standardized embedding-based evaluation (e.g., SBERT) across multiple models and decoding settings.
-To our knowledge, this is the first effort to define and benchmark Prompt-Based Semantic Shift (PBSS) as a general-purpose protocol for measuring behavioral instability in LLMs.
-Our work does not claim to be isolated from community efforts—but rather aims to systematize and operationalize this evaluation space under a reproducible, extensible framework.
+While prompt robustness in LLMs has been explored in prior literature, most efforts emphasize task-specific evaluations or isolated case analyses. In contrast, PBSS (Prompt-Based Semantic Shift) formalizes semantic-preserving rewordings as a structured axis of variation, and quantifies model sensitivity using standardized embedding-based diagnostics (e.g., SBERT).
 
+To our knowledge, this is the first systematic effort to define PBSS as a protocol for evaluating token-level behavioral instability across LLMs. Unlike prior works which implicitly test prompt robustness, PBSS establishes a reproducible benchmark framework with interpretable output metrics and clearly defined perturbation dimensions.
+
+This project does not claim isolation from related research—instead, it seeks to operationalize and consolidate this evaluation paradigm into an extensible toolset that others can adapt, build on, or critique.
