@@ -4,6 +4,8 @@
 This repository contains the toolkit, evaluation code, and visualizations for the paper:
 "When Meaning Stays the Same, but Models Drift: Evaluating Quality of Service under Token-Level Behavioral Instability in LLMs"
 
+PBSS defines semantic-preserving prompt variation and evaluates model behavior stability under surface-level changes. While this version benchmarks English prompts, the structure is extensible to multilingual domains. We encourage further extensions using the same evaluation framework.
+
 This is a preliminary version of ongoing work exploring behavioral instability in LLMs under semantic consistency.
 
 We plan to expand the evaluation framework in future updates.
