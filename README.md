@@ -4,6 +4,11 @@
 This repository contains the toolkit, evaluation code, and visualizations for the paper:
 "When Meaning Stays the Same, but Models Drift: Evaluating Quality of Service under Token-Level Behavioral Instability in LLMs"
 
+This is a preliminary version of ongoing work exploring behavioral instability in LLMs under semantic consistency.
+
+We plan to expand the evaluation framework in future updates.
+
+
 <pre>
 @misc{li2025meaningstayssamemodels,
       title={When Meaning Stays the Same, but Models Drift: Evaluating Quality of Service under Token-Level Behavioral Instability in LLMs}, 
