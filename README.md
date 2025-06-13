@@ -30,3 +30,11 @@ If you use the PBSS framework or any part of this repository in your research, p
       url={https://arxiv.org/abs/2506.10095}, 
 }</pre>
 
+# Compliance and Ethics Statement
+This repository does **not** include or rely on any private, sensitive, or institutionally-restricted data.
+
+All prompts, embeddings, and model outputs used in the PBSS benchmark are derived from publicly available APIs or open model endpoints. No internal system access or privileged datasets were used at any point.
+
+The experimental process was conducted independently and in full accordance with standard academic integrity practices and the institutional Honor Code.
+
+All data generation and evaluation processes were manually audited and documented. This benchmark is intended solely for academic transparency and research reproducibility.
