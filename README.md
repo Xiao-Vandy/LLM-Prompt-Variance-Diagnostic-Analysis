@@ -19,6 +19,16 @@ As long as the new prompt variants satisfy the semantic equivalence criteria and
 This flexibility enables broader experimentation with different prompt templates, user domains, or task settings.
 
 
+
+# Compliance and Ethics Statement
+This repository does **not** include or rely on any private, sensitive, or institutionally-restricted data.
+
+All prompts, embeddings, and model outputs used in the PBSS benchmark are derived from publicly available APIs or open model endpoints. No internal system access or privileged datasets were used at any point.
+
+The experimental process was conducted independently and in full accordance with standard academic integrity practices and the institutional Honor Code.
+
+All data generation and evaluation processes were manually audited and documented. This benchmark is intended solely for academic transparency and research reproducibility.
+
 # Citation
 If you use the PBSS framework or any part of this repository in your research, please cite the following paper:
 <pre>
@@ -32,11 +42,8 @@ If you use the PBSS framework or any part of this repository in your research, p
       url={https://arxiv.org/abs/2506.10095}, 
 }</pre>
 
-# Compliance and Ethics Statement
-This repository does **not** include or rely on any private, sensitive, or institutionally-restricted data.
+# Q&A: Note on Related Work
+While the robustness of LLMs to prompt variation has been explored in prior research, existing approaches often focus on task-specific metrics or qualitative case studies. PBSS, by contrast, frames semantic-preserving perturbations as a controlled axis of variation and applies standardized embedding-based evaluation (e.g., SBERT) across multiple models and decoding settings.
+To our knowledge, this is the first effort to define and benchmark Prompt-Based Semantic Shift (PBSS) as a general-purpose protocol for measuring behavioral instability in LLMs.
+Our work does not claim to be isolated from community efforts—but rather aims to systematize and operationalize this evaluation space under a reproducible, extensible framework.
 
-All prompts, embeddings, and model outputs used in the PBSS benchmark are derived from publicly available APIs or open model endpoints. No internal system access or privileged datasets were used at any point.
-
-The experimental process was conducted independently and in full accordance with standard academic integrity practices and the institutional Honor Code.
-
-All data generation and evaluation processes were manually audited and documented. This benchmark is intended solely for academic transparency and research reproducibility.
