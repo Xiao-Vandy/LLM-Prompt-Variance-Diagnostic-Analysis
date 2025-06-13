@@ -29,6 +29,10 @@ The experimental process was conducted independently and in full accordance with
 
 All data generation and evaluation processes were manually audited and documented. This benchmark is intended solely for academic transparency and research reproducibility.
 
+# SECURITY NOTE
+ For access, use Hugging Face access token via environment variable, not hard-coded. See best practices in CONTRIBUTING.md
+
+
 # Citation
 If you use the PBSS framework or any part of this repository in your research, please cite the following paper:
 <pre>
